@@ -1,0 +1,29 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Zhiwei Peng
+tagline:             '彭志伟' #
+description:         'Powered by Jekyll, <a href="https://ca.linkedin.com/in/zhiweipeng" target="_blank">@Zhiwei Peng</a>.'
+url:                 http://zhiwei-peng.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Zhiwei Peng
+  url:               https://ca.linkedin.com/in/zhiweipeng
+  email:             zwpeng1@gmail.com
+
+# Custom vars
+version:             April2016
+
+#pagination
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+
