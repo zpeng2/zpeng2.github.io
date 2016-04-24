@@ -11,7 +11,7 @@
 
   <title>
     
-      Archive &middot; Zhiwei Peng
+      Contact &middot; Zhiwei Peng
     
   </title>
 
@@ -69,7 +69,7 @@
     
       
         
-          <a class="sidebar-nav-item" href="/Contact/">Contact</a>
+          <a class="sidebar-nav-item active" href="/Contact/">Contact</a>
         
       
     
@@ -87,7 +87,7 @@
     
       
         
-          <a class="sidebar-nav-item active" href="/archive/">Archive</a>
+          <a class="sidebar-nav-item" href="/archive/">Archive</a>
         
       
     
@@ -125,11 +125,23 @@
 
       <div class="container content">
         <div class="page">
-  <h1 class="page-title">Archive</h1>
-  
-<ul>
-  <li>19 Apr 2016 » <a href="/2016/04/19/about-me/"> About </a></li>
-</ul>
+  <h1 class="page-title">Contact</h1>
+  <form id="contactform" method="POST">
+	Your name: <br />
+    <input type="text" name="name" style="font-size:16px;width:80%" /> <br />
+    Your email: <br />
+    <input type="email" name="_replyto" style="font-size:16px;width:80%" /> <br />
+    <input type="hidden" name="_subject" value="Website contact" /> 
+    Your message: <br />
+    <textarea name="message" style="font-size:12pt;height:200px;width:80%"></textarea> <br />
+    <input type="text" name="_gotcha" style="display:none" /> <br />
+    <input type="submit" style="font-size:16px" value="Send" /> 
+</form>
+<script>
+    var contactform =  document.getElementById('contactform');
+    contactform.setAttribute('action', '//formspree.io/' + 'zhiwei.peng91' + '@' + 'gmail' + '.' + 'com');
+</script>
+
 
 </div>
 
