@@ -7,7 +7,7 @@ permalink:           pretty
 # Setup
 title:               Zhiwei Peng
 tagline:             '彭志伟' #
-description:         'Powered by Jekyll, <a href="https://ca.linkedin.com/in/zhiweipeng" target="_blank">@Zhiwei Peng</a>.'
+description:         'Personal website of Zhiwei Peng, built using Jekyll with the Lanyon theme.'
 url:                 http://zhiwei-peng.com
 baseurl:             ''
 paginate:            5
