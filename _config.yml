@@ -21,9 +21,16 @@ author:
 # Custom vars
 version:             April2016
 
+
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+
 #pagination
-gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
+
+
 
 
