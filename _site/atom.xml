@@ -4,13 +4,30 @@
  <title>Zhiwei Peng</title>
  <link href="http://zhiwei-peng.com/atom.xml" rel="self"/>
  <link href="http://zhiwei-peng.com/"/>
- <updated>2016-05-09T23:00:28-07:00</updated>
+ <updated>2016-05-13T16:57:42-07:00</updated>
  <id>http://zhiwei-peng.com</id>
  <author>
    <name>Zhiwei Peng</name>
    <email>zwpeng1@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Paper featured in CSME Bulletin</title>
+   <link href="http://zhiwei-peng.com/2016/05/13/CSME-feature/"/>
+   <updated>2016-05-13T00:00:00-07:00</updated>
+   <id>http://zhiwei-peng.com/2016/05/13/CSME-feature</id>
+   <content type="html">&lt;p&gt;The paper &lt;em&gt;Characteristics of undulatory locomotion in granular media&lt;/em&gt; is featured in the CSME (The Canadian Society for Mechanical Engineering) Bulletin as a research highlight. In this paper, we employed a mathematical model to investigate the swimming characteristics of a sandfish lizard in a granular media.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ultimately their research helps to understand how we can design biomimetic
+robots capable of efficient and precisely controlled motion through challenging environments,
+such as sand.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Read the CSME Bulletin &lt;a href=&quot;http://www.csme-scgm.ca/sites/all/themes/csme/uploaded/CSME_publications/BULLETIN-SPRING%202016.pdf&quot;&gt;here&lt;/a&gt; (page 12). &lt;a href=&quot;/assets/pof1.pdf&quot;&gt;Download a PDF&lt;/a&gt; of our paper or read it &lt;a href=&quot;http://scitation.aip.org/content/aip/journal/pof2/28/3/10.1063/1.4942895&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>About</title>
