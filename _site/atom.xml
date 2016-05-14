@@ -4,7 +4,7 @@
  <title>Zhiwei Peng</title>
  <link href="http://zhiwei-peng.com/atom.xml" rel="self"/>
  <link href="http://zhiwei-peng.com/"/>
- <updated>2016-05-13T17:03:33-07:00</updated>
+ <updated>2016-05-13T23:13:05-07:00</updated>
  <id>http://zhiwei-peng.com</id>
  <author>
    <name>Zhiwei Peng</name>
@@ -17,7 +17,7 @@
    <link href="http://zhiwei-peng.com/2016/05/13/CSME-feature/"/>
    <updated>2016-05-13T00:00:00-07:00</updated>
    <id>http://zhiwei-peng.com/2016/05/13/CSME-feature</id>
-   <content type="html">&lt;p&gt;The paper &lt;em&gt;Characteristics of undulatory locomotion in granular media&lt;/em&gt; is featured in the CSME (The Canadian Society for Mechanical Engineering) Bulletin as a research highlight. In this paper, we employed a mathematical model to investigate the swimming characteristics of a sandfish lizard in a granular media.&lt;/p&gt;
+   <content type="html">&lt;p&gt;The paper &lt;em&gt;Characteristics of undulatory locomotion in granular media&lt;/em&gt; is featured in the CSME&lt;sup id=&quot;fnref:footnote&quot;&gt;&lt;a href=&quot;#fn:footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Bulletin as a research highlight. In this paper, we employed a mathematical model to investigate the swimming characteristics of a sandfish lizard in a granular media.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Ultimately their research helps to understand how we can design biomimetic
@@ -26,6 +26,14 @@ such as sand.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Read the CSME Bulletin &lt;a href=&quot;http://www.csme-scgm.ca/sites/all/themes/csme/uploaded/CSME_publications/BULLETIN-SPRING%202016.pdf&quot;&gt;here&lt;/a&gt; (page 12). &lt;a href=&quot;/assets/pof1.pdf&quot;&gt;Download a PDF&lt;/a&gt; of our paper or read it &lt;a href=&quot;http://scitation.aip.org/content/aip/journal/pof2/28/3/10.1063/1.4942895&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:footnote&quot;&gt;
+      &lt;p&gt;Canadian Society for Mechanical Engineering &lt;a href=&quot;#fnref:footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </content>
  </entry>
  
