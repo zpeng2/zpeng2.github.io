@@ -3,7 +3,7 @@ Hello! I am a Master's student at [The University of British Columbia, Vancouver
 
 Before UBC, I was at [Beijing University of Aeronautics and Astronautics](http://www.buaa.edu.cn) in China as an undergrad where I studied aerodynamics and started to enjoy mathematics yet found it intriguingly profound. In order to learn more about math, I got a second degree in applied mathematics at the same university. 
 
-View my LinkedIn profile [here](https://ca.linkedin.com/in/zhiweipeng). View my CV [here](/Resume).
+View my LinkedIn profile [here](https://ca.linkedin.com/in/zhiweipeng). View my CV [here](/Resume). View my posts [here](/archive/).
 
 ### Research and Publications
 
