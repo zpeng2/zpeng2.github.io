@@ -26,4 +26,4 @@ title: Publications
 
 ### Miscellaneous
 
-* Master's thesis, Inertialess swimming and propulsion of slender bodies. [[web]](http://hdl.handle.net/2429/57718)
+* Master's thesis, Inertialess swimming and propulsion of slender bodies. [[doi]](https://dx.doi.org/10.14288/1.0300048)
