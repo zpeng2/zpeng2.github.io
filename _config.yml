@@ -10,7 +10,7 @@ tagline:             '彭志伟' #
 description:         'Personal website of Zhiwei Peng, built with Jekyll.'
 url:                 http://zhiwei-peng.com
 baseurl:             ''
-paginate:            5
+
 
 # About/contact
 author:
