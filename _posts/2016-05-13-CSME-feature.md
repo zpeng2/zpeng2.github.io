@@ -3,7 +3,7 @@ layout: post
 title: Paper featured in CSME Bulletin
 ---
 
-The paper *Characteristics of undulatory locomotion in granular media* is featured in the CSME[^footnote] Bulletin as a research highlight. In this paper, we employed a mathematical model to investigate the swimming characteristics of a sandfish lizard in a granular media.
+The paper *Characteristics of undulatory locomotion in granular media* is featured in the CSME[^footnote] Bulletin research highlights. In this paper, we developed a mathematical model to investigate the swimming characteristics of a sandfish lizard ([*Scincus scincus*](https://en.wikipedia.org/wiki/Scincus_scincus)) in granular media.
 
 
 >Ultimately their research helps to understand how we can design biomimetic
