@@ -4,7 +4,7 @@
  <title>Zhiwei Peng</title>
  <link href="http://zhiwei-peng.com/atom.xml" rel="self"/>
  <link href="http://zhiwei-peng.com/"/>
- <updated>2016-05-25T19:39:41-07:00</updated>
+ <updated>2016-05-25T22:33:21-07:00</updated>
  <id>http://zhiwei-peng.com</id>
  <author>
    <name>Zhiwei Peng</name>
@@ -21,7 +21,7 @@
 
 &lt;h2 id=&quot;swimming-sandfish-lizards&quot;&gt;Swimming sandfish lizards&lt;/h2&gt;
 
-&lt;p&gt;You might wonder why would I use the word &lt;em&gt;swimming&lt;/em&gt; for an animal that has four limbs which can be used for walking, or crawling? It turns out that in order to prevent overheating or escape potential threat, sandfish can dive into sand. When it burrows into sand, a sandfish usually moves by propagating a deformation wave along its body while putting its limbs alongside its body&lt;sup id=&quot;fnref:footnote&quot;&gt;&lt;a href=&quot;#fn:footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. So swimming it is, and which is also how this desert lizard got its name &lt;em&gt;sandfish&lt;/em&gt; according to &lt;a href=&quot;https://en.wikipedia.org/wiki/Scincus_scincus&quot;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You might wonder why would I use the word &lt;em&gt;swimming&lt;/em&gt; for an animal that has four limbs which can be used for walking, or crawling? It turns out that in order to prevent overheating or escape potential threat, sandfish can dive into sand. When it burrows into sand, a sandfish usually moves by propagating a deformation wave along its body while putting its limbs alongside its body&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. So swimming it is, and which is also how this desert lizard got its name &lt;em&gt;sandfish&lt;/em&gt; according to &lt;a href=&quot;https://en.wikipedia.org/wiki/Scincus_scincus&quot;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center;font-size:80%;color:gray;&quot;&gt;&lt;img src=&quot;/assets/sandfishWiki.jpeg&quot; alt=&quot;sandfish &quot; class=&quot;center-image&quot; /&gt;
 A captive juvenile male sandfish skink. CC BY-SA 4.0&lt;/p&gt;
@@ -36,15 +36,24 @@ A captive juvenile male sandfish skink. CC BY-SA 4.0&lt;/p&gt;
 Numerical simulation of two model sandfish swimmers.&lt;/p&gt;
 
 &lt;h2 id=&quot;swimming-flagella&quot;&gt;Swimming flagella&lt;/h2&gt;
-&lt;p&gt;Though invisible to the naked eye, the world of microorganisms is very fascinating.&lt;/p&gt;
+&lt;p&gt;Though invisible to the naked eye, the world of microorganisms is very fascinating.  The ability to move around in a surrounding fluid is critical for microorganisms to function. For example, a sperm has to swim upstream to fertilize an egg. The animation below shows how sperms move around in a fluid.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;to be continued&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center;font-size:80%;color:gray;&quot;&gt;&lt;img src=&quot;/assets/SpermChemo.gif&quot; alt=&quot;sperm swimming &quot; class=&quot;center-image&quot; /&gt;
+Swimming sperms, adapted from Armon L, Eisenbach M&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; CC BY 2.5&lt;/p&gt;
+
+&lt;p&gt;As can be seen from the animation, a sperm moves around in a similar fashion to that of a sand-swimming lizard. It passes a deformation wave along its hair-like appendage, which is called flagellum. The swimming behavior of a flagellum in various settings has been extensively studied in the literature, whether numerically, analytically or experimentally. In my project, I looked at the possibility of having a non-uniform flexibility distribution along the flagellum so that its propulsive force can be improved.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: I wrote this post to conclude my study at UBC.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;references&quot;&gt;References:&lt;/h3&gt;
+
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:footnote&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://science.sciencemag.org/content/325/5938/314&quot;&gt;Undulatory Swimming in Sand: Subsurface Locomotion of the Sandfish Lizard&lt;/a&gt; &lt;a href=&quot;#fnref:footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://science.sciencemag.org/content/325/5938/314&quot;&gt;Undulatory Swimming in Sand: Subsurface Locomotion of the Sandfish Lizard&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://dx.doi.org/10.1371/journal.pone.0028359&quot;&gt;Behavioral Mechanism during Human Sperm Chemotaxis: Involvement of Hyperactivation&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
