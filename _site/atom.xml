@@ -4,13 +4,52 @@
  <title>Zhiwei Peng</title>
  <link href="http://zhiwei-peng.com/atom.xml" rel="self"/>
  <link href="http://zhiwei-peng.com/"/>
- <updated>2016-05-25T00:05:37-07:00</updated>
+ <updated>2016-05-25T19:39:41-07:00</updated>
  <id>http://zhiwei-peng.com</id>
  <author>
    <name>Zhiwei Peng</name>
    <email>zwpeng1@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Studying the swimming motion of sandfish and flagella</title>
+   <link href="http://zhiwei-peng.com/2016/05/25/UBC/"/>
+   <updated>2016-05-25T00:00:00-07:00</updated>
+   <id>http://zhiwei-peng.com/2016/05/25/UBC</id>
+   <content type="html">&lt;p&gt;I did my master at &lt;a href=&quot;https://www.ubc.ca/&quot;&gt;University of British Columbia&lt;/a&gt; in the beautiful city of Vancouver and graduated in May 2016. I loved my experience at UBC, studying and modeling biological locomotion from the underground swimming of sandfish lizards (&lt;a href=&quot;https://en.wikipedia.org/wiki/Scincus_scincus&quot;&gt;&lt;em&gt;Scincus scincus&lt;/em&gt;&lt;/a&gt;) in sand to the microscopic motion of a flagellated bacteria in a viscous fluid. During my time at UBC, I presented at an academic conference (&lt;a href=&quot;http://meetings.aps.org/link/BAPS.2015.DFD.L26.4&quot;&gt;DFD2015&lt;/a&gt;) for the first time of my life.&lt;/p&gt;
+
+&lt;h2 id=&quot;swimming-sandfish-lizards&quot;&gt;Swimming sandfish lizards&lt;/h2&gt;
+
+&lt;p&gt;You might wonder why would I use the word &lt;em&gt;swimming&lt;/em&gt; for an animal that has four limbs which can be used for walking, or crawling? It turns out that in order to prevent overheating or escape potential threat, sandfish can dive into sand. When it burrows into sand, a sandfish usually moves by propagating a deformation wave along its body while putting its limbs alongside its body&lt;sup id=&quot;fnref:footnote&quot;&gt;&lt;a href=&quot;#fn:footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. So swimming it is, and which is also how this desert lizard got its name &lt;em&gt;sandfish&lt;/em&gt; according to &lt;a href=&quot;https://en.wikipedia.org/wiki/Scincus_scincus&quot;&gt;Wikipedia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center;font-size:80%;color:gray;&quot;&gt;&lt;img src=&quot;/assets/sandfishWiki.jpeg&quot; alt=&quot;sandfish &quot; class=&quot;center-image&quot; /&gt;
+A captive juvenile male sandfish skink. CC BY-SA 4.0&lt;/p&gt;
+
+&lt;p&gt;Read this paper by &lt;a href=&quot;http://science.sciencemag.org/content/325/5938/314&quot;&gt;Maladen &lt;em&gt;et. al.&lt;/em&gt;&lt;/a&gt; and references therein or watch &lt;a href=&quot;https://youtu.be/Xzt1iJbwNXE&quot;&gt;this&lt;/a&gt; interesting interview on YouTube for details on sandfish swimming.&lt;/p&gt;
+
+&lt;p&gt;Interested in this motion, we developed a mathematical model which employs a drag law developed by Maladen &lt;em&gt;et. al.&lt;/em&gt; to characterize the swimming behavior of a sandfish lizard that is modeled as a slender filament.&lt;/p&gt;
+
+&lt;p&gt;I presented our findings at the APS DFD meeting in Boston in November 2015, which is the first time I’ve ever attended an academic conference. I was amazed at the sheer number of researchers working in fluid related fields. My slides for the talk can be found &lt;a href=&quot;/assets/DFD2015.pdf&quot;&gt;here&lt;/a&gt;. My paper can be found &lt;a href=&quot;/assets/pof1.pdf&quot;&gt;here&lt;/a&gt;. The following image is an animation of two simulations of our model sandfish swimmers.&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center;font-size:80%;color:gray;&quot;&gt;&lt;img src=&quot;/assets/sandfish.gif&quot; alt=&quot;sandfish swimming&quot; class=&quot;center-image&quot; /&gt;
+Numerical simulation of two model sandfish swimmers.&lt;/p&gt;
+
+&lt;h2 id=&quot;swimming-flagella&quot;&gt;Swimming flagella&lt;/h2&gt;
+&lt;p&gt;Though invisible to the naked eye, the world of microorganisms is very fascinating.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;to be continued&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References:&lt;/h3&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:footnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://science.sciencemag.org/content/325/5938/314&quot;&gt;Undulatory Swimming in Sand: Subsurface Locomotion of the Sandfish Lizard&lt;/a&gt; &lt;a href=&quot;#fnref:footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Paper featured in CSME Bulletin</title>
