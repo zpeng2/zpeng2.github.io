@@ -4,7 +4,7 @@
  <title>Zhiwei Peng</title>
  <link href="http://zhiwei-peng.com/atom.xml" rel="self"/>
  <link href="http://zhiwei-peng.com/"/>
- <updated>2016-05-25T22:33:21-07:00</updated>
+ <updated>2016-05-31T08:52:24-07:00</updated>
  <id>http://zhiwei-peng.com</id>
  <author>
    <name>Zhiwei Peng</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Studying the swimming motion of sandfish and flagella</title>
+   <title>Studying swimming sandfish and beating flagella at UBC</title>
    <link href="http://zhiwei-peng.com/2016/05/25/UBC/"/>
    <updated>2016-05-25T00:00:00-07:00</updated>
    <id>http://zhiwei-peng.com/2016/05/25/UBC</id>
@@ -35,7 +35,7 @@ A captive juvenile male sandfish skink. CC BY-SA 4.0&lt;/p&gt;
 &lt;p style=&quot;text-align:center;font-size:80%;color:gray;&quot;&gt;&lt;img src=&quot;/assets/sandfish.gif&quot; alt=&quot;sandfish swimming&quot; class=&quot;center-image&quot; /&gt;
 Numerical simulation of two model sandfish swimmers.&lt;/p&gt;
 
-&lt;h2 id=&quot;swimming-flagella&quot;&gt;Swimming flagella&lt;/h2&gt;
+&lt;h2 id=&quot;beating-flagella&quot;&gt;Beating flagella&lt;/h2&gt;
 &lt;p&gt;Though invisible to the naked eye, the world of microorganisms is very fascinating.  The ability to move around in a surrounding fluid is critical for microorganisms to function. For example, a sperm has to swim upstream to fertilize an egg. The animation below shows how sperms move around in a fluid.&lt;/p&gt;
 
 &lt;p style=&quot;text-align:center;font-size:80%;color:gray;&quot;&gt;&lt;img src=&quot;/assets/SpermChemo.gif&quot; alt=&quot;sperm swimming &quot; class=&quot;center-image&quot; /&gt;
