@@ -6,7 +6,7 @@ View my LinkedIn profile [here](https://ca.linkedin.com/in/zhiweipeng). View my 
 
 ### Research and Publications
 
-I am currently working on the swimming and propulsion of flexible slender bodies at low Reynolds number. See [Publications](/Publications) for a list of work that have been published.
+I am currently working on the swimming and propulsion of flexible slender bodies at low Reynolds number. See [Publications](/publications) for a list of work that have been published.
 
 In many situations of biological locomotion in fluids, such as flapping birds, swimming fish and beating flagella, propulsive thrust is achieved by periodic motion of a flexible body or appendages. Elastic deformations of flexible parts on a swimmer can lead to significantly improved propulsive performance across Reynolds numbers. In this project, I am trying to look at the interesting behaviors resulting from the fluid-structure interaction of a slender filament immersed in a viscous fluid that is periodically actuated in a certain way.
 
