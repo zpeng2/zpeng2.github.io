@@ -18,7 +18,7 @@ title: Publications
 
 ### Contributed conference presentations
 
-0. Z. Peng, G.J. Elfring and O.S. Pak, Maximizing the propulsive thrust of a driven filament at low Reynolds number through non-uniform flexibility, 69th APS DFD (submitted)
+0. Z. Peng, G.J. Elfring and O.S. Pak, Maximizing the propulsive thrust of a driven filament at low Reynolds number through non-uniform flexibility, 69th APS DFD
 0. Z. Peng, G.J. Elfring and O.S. Pak, Propulsive thrust of a driven filament at low Reynolds number with non-uniform flexibility, 24th ICTAM, Montreal, Canada, 2016 
 0. Z. Peng, O.S. Pak and G.J. Elfring, Characterization of undulatory locomotion in granular media, 68th APS DFD, Boston, MA, 2015 [[web]](http://meetings.aps.org/link/BAPS.2015.DFD.L26.4)
 {: reversed="reversed"}
