@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <p class="message">
-  This page includes a list of my work that has been published in a peer-reviewed journal or presented at an academic conference.
+ View my <a href="https://scholar.google.com/citations?user=NZksGDoAAAAJ">Google scholar profile</a>.
 </p>
 
 
