@@ -10,8 +10,10 @@ title: Publications
 
 ### Journal publications
 
-0. Z.Peng, G.J. Elfring, O.S. Pak, Maximizing propulsive thrust of a driven filament at low Reynolds number via variable flexibility, *submitted*
-0. Z. Peng, O.S. Pak and G.J. Elfring, Characteristics of undulatory locomotion in granular media, Physics of Fluids, 28, (2016), 031901. [[pdf]](/assets/pof1.pdf), [[doi]](http://dx.doi.org/10.1063/1.4942895)
+0. Maximizing propulsive thrust of a driven filament at low Reynolds number via variable flexibility
+	 <br/> Z.Peng, G.J. Elfring, O.S. Pak, *submitted*
+0.  [Characteristics of undulatory locomotion in granular media](http://dx.doi.org/10.1063/1.4942895)
+ 	<br/> Z. Peng, O.S. Pak and G.J. Elfring, Phys. Fluids, 28, (2016), 031901. 
 	* featured in the [CSME Bulletin](http://www.csme-scgm.ca/sites/all/themes/csme/uploaded/CSME_publications/BULLETIN-SPRING%202016.pdf), page 12, read my post [here](/2016/05/13/CSME-feature/)
 {: reversed="reversed"}
 
