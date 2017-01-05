@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <p class="message">
- View my <a href="https://scholar.google.com/citations?user=NZksGDoAAAAJ">Google scholar profile</a>.
+ View my <a href="https://scholar.google.com/citations?user=NZksGDoAAAAJ">Google Scholar profile</a>.
 </p>
 
 
