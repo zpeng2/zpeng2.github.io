@@ -8,7 +8,7 @@ title: Publications
 </p>
 
 
-### Journal publications
+### Journal papers
 
 0. Maximizing propulsive thrust of a driven filament at low Reynolds number via variable flexibility
 	 <br/> Z.Peng, G.J. Elfring, O.S. Pak, *submitted*, [preprint](https://arxiv.org/abs/1612.09033)
