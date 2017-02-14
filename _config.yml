@@ -10,7 +10,7 @@ permalink:           pretty
 
 # Setup
 title:               Zhiwei Peng
-tagline:             '彭志伟' #
+tagline:             '' #
 description:         'Personal website of Zhiwei Peng, built with Jekyll.'
 url:                 http://zhiwei-peng.com
 baseurl:             ''
