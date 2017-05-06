@@ -7,7 +7,7 @@ Hello! I am a Master's student at The University of British Columbia, Vancouver 
 
 My profile on [LinkedIn](https://ca.linkedin.com/in/zhiweipeng).  
 My profile on [Google Scholar](https://scholar.google.com/citations?user=NZksGDoAAAAJ).  
-My profile on [ORCID](http://orcid.org/0000-0002-9486-2837).
+
 
 
 
