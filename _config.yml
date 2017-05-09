@@ -29,7 +29,7 @@ version:             V1.0
 gems:
   - jekyll-sitemap
 
-pages_list:       {'Archive':'/archive', 'Publications':'/publications'}
+pages_list:       {'Research':'/research', 'Publications':'/publications'}
 #pagination
 # - jekyll-paginate
 #paginate: 5
