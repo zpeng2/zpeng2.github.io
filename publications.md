@@ -15,7 +15,7 @@ title: Publications
 	 <br/> Z. Peng, G.J. Elfring, O.S. Pak, Soft Matter, 13, 2339-2347, 2017
 0.  [Characteristics of undulatory locomotion in granular media](http://dx.doi.org/10.1063/1.4942895)
  	<br/> Z. Peng, O.S. Pak and G.J. Elfring, Phys. Fluids, 28, 031901, 2016
-	* featured in the [CSME Bulletin](http://www.csme-scgm.ca/sites/all/themes/csme/uploaded/CSME_publications/BULLETIN-SPRING%202016.pdf)
+	* featured in the [CSME Bulletin](http://www.csme-scgm.ca/bulletin), spring 2016
 {: reversed="reversed"}
 
 
