@@ -1,7 +1,9 @@
 
 ![aa](/assets/picweb.jpg)
 
-Hello! I am a Master's student at The University of British Columbia, Vancouver and a member of Institute of Applied Mathematics. My research is focused on bio-locomotion in fluids, a field that I find very interesting. 
+Hello! I am a doctoral student (Fall 2017 - ) at the California Institute of Technology majoring in Chemical Engineering. I am interested in active matter and complex fluids, especially those at small scales where inertial effects might be negligible.
+
+Before joining Caltech, I was a Master's student at the University of British Columbia where I studied biological locomotion of flexible filaments as a result of fluid-structure interactiion. 
 
 
 
