@@ -1,7 +1,7 @@
 
 ![aa](/assets/picweb.jpg)
 
-Hello! I am a doctoral student (Fall 2017 - ) at the California Institute of Technology majoring in Chemical Engineering. I am interested in active matter and complex fluids, especially those at small scales where inertial effects might be negligible.
+Hello! I am a doctoral student (Fall 2017 - ) at the California Institute of Technology majoring in Chemical Engineering. I am interested in active matter and complex fluids research, especially those at small scales where inertial effects might be negligible.
 
 Before joining Caltech, I was a Master's student at the University of British Columbia where I studied biological locomotion of flexible filaments as a result of fluid-structure interactiion. 
 
