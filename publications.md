@@ -20,7 +20,7 @@ title: Publications
 
 
 ### Contributed conference presentations
-
+0. Z. Peng, Y. Ding, K. Pietrzyk, G.J. Elfring, O.S. Pak, Propulsion via flexible flapping in granular media, APS DFD, Denver, CO, 2017
 0. Z. Peng, G.J. Elfring and O.S. Pak, Maximizing the propulsive thrust of a driven filament at low Reynolds number through non-uniform flexibility, APS DFD, Portland, OR, 2016
 0. Z. Peng, G.J. Elfring and O.S. Pak, Propulsive thrust of a driven filament at low Reynolds number with non-uniform flexibility, 24th ICTAM, Montreal, Canada, 2016 
 0. Z. Peng, O.S. Pak and G.J. Elfring, Characterization of undulatory locomotion in granular media, APS DFD, Boston, MA, 2015 
