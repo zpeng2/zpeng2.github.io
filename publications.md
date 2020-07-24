@@ -9,6 +9,8 @@ title: Publications
 
 
 ### Journal papers
+0. [Upstream swimming and Taylor dispersion of active Brownian particles](https://link.aps.org/doi/10.1103/PhysRevFluids.5.073102)
+    <br/> Z. Peng, J.F. Brady, Phys. Rev. Fluids, 5, 073102, 2020
 0. [Propulsion via flexible flapping in granular media](https://doi.org/10.1103/PhysRevE.96.012907)
      <br/> Z. Peng, Y. Ding, K. Pietrzyk, G.J. Elfring, O.S. Pak, Phys. Rev. E, 96, 012907, 2017 
 0. [Maximizing propulsive thrust of a driven filament at low Reynolds number via variable flexibility](http://dx.doi.org/10.1039/C6SM02880B)
