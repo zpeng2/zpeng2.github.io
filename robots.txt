@@ -1,69 +1,7 @@
-User-agent: Googlebot
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
-User-agent: Googlebot-Image
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
-User-agent: Twitterbot
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
-User-agent: Bingbot
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
-User-agent: DuckDuckBot
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
-User-agent: ia_archiver
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
-User-agent: Applebot
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
-User-agent: facebookexternalhit
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
-User-agent: Facebot
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
-User-agent: Baiduspider
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-User-agent: Baiduspider-image
-Disallow: /images/
-Disallow: /CNAME
-Disallow: /*.md$
-
-
+---
+permalink: /robots.txt
+---
 User-agent: *
-Disallow: /
+Disallow:
 
-Sitemap: http://zhiweipeng.com/sitemap.xml
+Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml

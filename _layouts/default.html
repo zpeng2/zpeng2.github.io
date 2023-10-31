@@ -1,60 +1,63 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang }}">
+
+  <!-- Head -->
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
-    {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!-- academicons. added by zhiwei-->
-    <link rel="stylesheet" href="/academicons/css/academicons.min.css"/>
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  {%- if page.redirect -%}
+    <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
+  {%- endif -%}
+  {% include head.html %}
   </head>
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+  <!-- Body -->
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+    <!-- Header -->
+    {%- include header.html %}
+
+    <!-- Content -->
+    <div class="container mt-5">
+      {% if page.toc and page.toc.sidebar %}
+        {% if page.toc.sidebar == "right" %}
+        <div class="row">
+          <!-- main content area -->
+          <div class="col-sm-9">
+            {{ content }}
           </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/research">Research</a>
-            <a href="{{ site.baseurl }}/publications">Publications</a>
-            <a href="{{ site.baseurl }}/posts">Posts</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
+          <!-- sidebar, which will move to the top on a small screen -->
+          <div class="col-sm-3">
+            <nav id="toc-sidebar" class="sticky-top"></nav>
+          </div>
+        </div>
+        {% else %}
+        <div class="row">
+          <!-- sidebar, which will move to the top on a small screen -->
+          <div class="col-sm-3">
+            <nav id="toc-sidebar" class="sticky-top"></nav>
+          </div>
+          <!-- main content area -->
+          <div class="col-sm-9">
+            {{ content }}
+          </div>
+        </div>
+        {% endif %}
+      {% else %}
+        {{ content }}
+      {% endif %}
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+    <!-- Footer -->
+    {%- include footer.html %}
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          <!--{% include svg-icons.html %}-->
-          
-
-          <a href="https://scholar.google.com/citations?user=NZksGDoAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a>
-          <a href="https://orcid.org/0000-0002-9486-2837"><i class="ai ai-orcid-square ai-3x"></i></a>
-
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
+    <!-- JavaScripts -->
+    {% include scripts/jquery.html %}
+    {% include scripts/bootstrap.html %}
+    {% include scripts/masonry.html %}
+    {% include scripts/misc.html %}
+    {% include scripts/badges.html %}
+    {% include scripts/mathjax.html %}
+    {% include scripts/analytics.html %}
+    {% include scripts/progressBar.html %}
+    {% include scripts/wechatModal.html %}
   </body>
 </html>
