@@ -2,7 +2,7 @@
 layout: page
 title: Microrheology & fluctuations
 description: microrheology of and fluctuations in passive and active colloidal matter
-img: assets/img/translation-microrheology.jpg
+img: assets/img/rotational-microrheology.jpg
 importance: 2
 category: work
 related_publications: PB2022_jor, PB2022_JCP
