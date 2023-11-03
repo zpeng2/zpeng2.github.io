@@ -12,7 +12,7 @@ profile:
     <p>ICE,</p>
     <p>9211-116 St,</p>
     <p>Edmonton, AB, T6G 2H5</p>
-    <p><a href = "mailto: zpeng8@ualberta.ca">zpeng8@ualberta.ca</a> </p>
+    <p><a href = "mailto: zhiwei.peng@ualberta.ca">zhiwei.peng@ualberta.ca</a> </p>
 
 
 

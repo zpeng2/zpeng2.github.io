@@ -6,4 +6,4 @@ Assistant Professor
 
 Ph.D. '22, Caltech 
 
-<zpeng8@ualberta.ca>
+<zhiwei.peng@ualberta.ca>
