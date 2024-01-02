@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ICE,</p>
-    <p>9211-116 St,</p>
-    <p>Edmonton, AB, T6G 2H5</p>
+    <p>12-324 ICE</p>
+    <p>9211 116 Street NW</p>
+    <p>Edmonton, AB, T6G 1H9</p>
     <p><a href = "mailto: zhiwei.peng@ualberta.ca">zhiwei.peng@ualberta.ca</a> </p>
 
 
