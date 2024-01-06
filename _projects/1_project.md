@@ -5,7 +5,7 @@ description: transport of passive and active matter in complex fluidic environme
 img: assets/img/ABP-fluctuating-channel.jpg 
 importance: 1
 category: work
-related_publications: PRF2020, peng_zhou_brady_2022, zhou2023ai
+related_publications: PRF2020, peng_zhou_brady_2022, Zhou2024
 ---
 
 Locomotion of self-propelled particles such as motile bacteria or phoretic swimmers often takes place in the presence of applied flows and confining boundaries. Interactions of these active swimmers with the flow environment and the boundaries are important for the understanding of many biological processes, including infection by motile bacteria, the formation of biofilms, and the design of micro and nanomotors for biomedical applications. 
