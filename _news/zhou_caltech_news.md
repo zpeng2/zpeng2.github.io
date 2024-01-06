@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aided by AI, New Catheter Design Prevents Bacterial Infections
+title: New Catheter Design Prevents Bacterial Infections
 date: 2024-01-05
 inline: false
 related_posts: false
