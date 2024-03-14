@@ -29,7 +29,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor in the [Department of Chemical and Materials Engineering](https://www.ualberta.ca/engineering/chemical-materials-engineering/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). Research in the Peng group focuses on the development of theoretical machinery and high-performance (e.g., CUDA-enabled) computational libraries to study the mechanics of soft and [active matter](https://en.wikipedia.org/wiki/Active_matter). The key aim is to bridge the gap between micromechanics of constitutive particles and macroscopic phenomena. 
 
-Before joining UAlberta, I was a postdoctoral fellow in the Chemical Physics Theory Group at the University of Toronto. I earned my Ph.D. degree in Chemical Engineering from [Caltech](https://www.caltech.edu/) under the supervision of [John Brady](https://cce.caltech.edu/people/john-f-brady). Prior to Caltech, I worked with [Gwynn Elfring](https://soft.mech.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/).
+I earned my Ph.D. degree in Chemical Engineering from [Caltech](https://www.caltech.edu/) under the supervision of [John Brady](https://cce.caltech.edu/people/john-f-brady).
 
 Leveraging the tools of fluid mechanics, nonequilibrium statistical mechanics, applied mathematics, and high-performance computing, we aim to advance our theoretical understanding of the dynamics of soft matter systems. Current research topics include transport, microrheology, fluctuations, and collective motion of colloidal (active) matter. 
 
