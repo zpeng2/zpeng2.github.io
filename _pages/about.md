@@ -27,7 +27,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the [Department of Chemical and Materials Engineering](https://www.ualberta.ca/engineering/chemical-materials-engineering/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). Research in the Peng group focuses on the development of theoretical machinery and high-performance (e.g., CUDA-enabled) computational libraries to study the mechanics of soft and [active matter](https://en.wikipedia.org/wiki/Active_matter). The key aim is to bridge the gap between micromechanics of constitutive particles and macroscopic phenomena. 
+I am an Assistant Professor in the [Department of Chemical and Materials Engineering](https://www.ualberta.ca/engineering/chemical-materials-engineering/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). Our group develops theoretical machinery and high-performance (e.g., CUDA-enabled) computational libraries to study the mechanics of soft and [active matter](https://en.wikipedia.org/wiki/Active_matter). The key aim is to bridge the gap between micromechanics of constitutive particles and macroscopic phenomena. 
 
 I earned my Ph.D. degree in Chemical Engineering from [Caltech](https://www.caltech.edu/) under the supervision of [John Brady](https://cce.caltech.edu/people/john-f-brady).
 
