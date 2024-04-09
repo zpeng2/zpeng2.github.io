@@ -33,7 +33,7 @@ I earned my Ph.D. degree in Chemical Engineering from [Caltech](https://www.calt
 
 Current research topics include transport, microrheology, statistical mechanics, fluctuations, and collective motion of colloidal (active) matter. 
 
-If you are interested in joining our group, please fill out this [Google form](https://forms.gle/xte58zGZbz4Xi7Rd9). If you are interested in collaborating with us, please contact Dr. Peng.
+If you are interested in joining our group, please read [this page]({% link _news/join.md %}). For any other inquires, please contact Dr. Peng.
 
 
 
