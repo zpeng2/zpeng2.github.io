@@ -23,6 +23,8 @@ Active matter is a novel and exciting class of materials that include suspension
 
 Interested candidates should send their **CV, a copy of their transcripts, and a brief description of their interests and motivation** to Dr. Peng. Please note that only shortlisted candidates will receive a reply and incomplete inquires (e.g. missing CV) may not receive a reply. 
 
+For inquiries regarding postdoctoral positions, please email Dr. Peng and include your CV. 
+
 
 <!-- Applications for the M.S. and Ph.D. programs must be made through the [Faculty of Graduate Studies and Research](https://www.ualberta.ca/graduate-studies/prospective-students/apply-for-admission/index.html) at UAlberta. -->
 
