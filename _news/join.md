@@ -7,7 +7,7 @@ related_posts: false
 related_publications: Zhou2024,peng_zhou_brady_2022,PB2022_jor,PB2022_JCP, PRF2020
 ---
 
-## Micromechanics and microrheology of active matter
+## Mechanics of active matter
 
 - Positions: Ph.D., M.S., and undergraduate internships
 - Start date: Jan 2025 or after
@@ -21,7 +21,7 @@ We seek motivated students to join the Peng Group in the Department of Chemical 
 
 Active matter is a novel and exciting class of materials that include suspensions of motile bacteria, molecular motors, and synthetic self-propelled colloids. Potential applications of active matter include catalysis, chemical sensing, self-assembling intelligent materials, and targeted drug delivery.  Interested candidates are encouraged to look through the attached references to gauge their interest in the field and fit for the position. For further information, please visit our web page at [zhiweipeng.com](https://zhiweipeng.com/).
 
-Interested candidates should send their **CV, a copy of their transcripts, and a brief description of their interests and motivation** to Dr. Peng. Please note that only shortlisted candidates will receive a reply and incomplete inquires (e.g. missing CV) may not receive a reply. 
+If you would like to join as a graduate student or undergraduate intern, please fill out this [inquiry form](https://forms.gle/wfAvGcViQLaTwurJ6). Direct email messages to Dr. Peng will not be considered.
 
 For inquiries regarding postdoctoral positions, please email Dr. Peng and include your CV. 
 
