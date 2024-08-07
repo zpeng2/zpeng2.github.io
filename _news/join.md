@@ -21,9 +21,9 @@ We seek motivated students to join the Peng Group in the Department of Chemical 
 
 Active matter is a novel and exciting class of materials that include suspensions of motile bacteria, molecular motors, and synthetic self-propelled colloids. Potential applications of active matter include catalysis, chemical sensing, self-assembling intelligent materials, and targeted drug delivery.  Interested candidates are encouraged to look through the attached references to gauge their interest in the field and fit for the position. For further information, please visit our web page at [zhiweipeng.com](https://zhiweipeng.com/).
 
-If you would like to join as a graduate student or undergraduate intern, please fill out this [inquiry form](https://forms.gle/wfAvGcViQLaTwurJ6). Direct email messages to Dr. Peng will not be considered.
+If you would like to join as a graduate student or undergraduate intern, please fill out this [inquiry form](https://forms.gle/wfAvGcViQLaTwurJ6). **Direct email messages to Dr. Peng will not be considered.**
 
-For inquiries regarding postdoctoral positions, please email Dr. Peng and include your CV. 
+For inquiries regarding **postdoctoral** positions, please email Dr. Peng and include your CV. 
 
 
 <!-- Applications for the M.S. and Ph.D. programs must be made through the [Faculty of Graduate Studies and Research](https://www.ualberta.ca/graduate-studies/prospective-students/apply-for-admission/index.html) at UAlberta. -->
