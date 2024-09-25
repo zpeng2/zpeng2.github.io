@@ -18,8 +18,8 @@ profiles:
     #   <p>9211-116 St,</p>
     #   <p>Edmonton, AB, T6G 2H5</p>
   - align: left
-    image: prof-generic.jpg
-    content: people_you.md
+    image: vhaskar.jpeg
+    content: vhaskar.md
     image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
