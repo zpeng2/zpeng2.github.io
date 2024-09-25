@@ -1,4 +1,4 @@
-#### Vhaskar Chakraborty
+### Vhaskar Chakraborty
 
 **Ph.D. Candidate**
 
