@@ -1,3 +1,0 @@
-# **You** 
-
-**Ph.D. candidate**
