@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two recent papers appeared in JFM and JCP
+title: Two papers published in JFM and JCP
 date: 2024-10-15  
 inline: false
 related_posts: false
