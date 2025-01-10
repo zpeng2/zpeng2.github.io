@@ -1,6 +1,6 @@
 ### Alireza Khademiyan
 
-**M.Sc. student**
+**M.Sc. Student**
 
 B.Sc., Amirkabir University of Technology (2024)
 
