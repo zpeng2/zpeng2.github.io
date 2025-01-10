@@ -1,6 +1,6 @@
 ### Vhaskar Chakraborty
 
-**Ph.D. Candidate**
+**Ph.D. candidate**
 
 IIT Dhanbad, co-supervised with Prof. P. Mishra 
 
