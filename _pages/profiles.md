@@ -37,3 +37,8 @@ profiles:
     #   <p>123 your address street</p>
     #   <p>Your City, State 12345</p>
 ---
+
+## Alumni
+
+- Jenna Ngan — Undergraduate researcher, 2025
+
