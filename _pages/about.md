@@ -35,6 +35,12 @@ Current research topics include transport, microrheology, statistical mechanics,
 
 If you are interested in joining our group, please read [this page]({% link _news/join.md %}). For any other inquires, please contact Dr. Peng.
 
+<div class="row mt-4 mb-4">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/research_banner.jpg' | relative_url }}" alt="Active Matter Research Visual">
+    </div>
+</div>
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
