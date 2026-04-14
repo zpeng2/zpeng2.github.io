@@ -1,7 +1,7 @@
 ---
 layout: page
 title: statistical mechanics
-description: statistical mechanics of active matter
+description: statistical mechanics of active matter in complex environments
 img: assets/img/statmech.png
 importance: 2
 category: work
