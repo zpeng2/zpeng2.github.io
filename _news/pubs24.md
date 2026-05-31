@@ -4,8 +4,8 @@ title: Two papers published in JFM and JCP
 date: 2024-10-15  
 inline: false
 related_posts: false
-related_publications: P2024a, P2024b
+related_publications: true
 ---
 
-In the JCP paper, a macrotransport theory for active particles in periodic geometries is developed. In the JFM paper, this theory is applied to study the rotational dispersion of nonspherical particles in linear flows. 
+In the JCP paper, a macrotransport theory for active particles in periodic geometries is developed. In the JFM paper, this theory is applied to study the rotational dispersion of nonspherical particles in linear flows {% cite P2024a P2024b %}. 
 

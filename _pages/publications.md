@@ -2,13 +2,19 @@
 layout: page
 permalink: /publications/
 title: publications
-description: active matter, fluid mechanics, nonequilibrium statistical mechanics. 
+description: publications in reversed chronological order
 nav: true
-nav_order: 1
+nav_order: 2
 ---
+
 <!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography %}
 
 </div>

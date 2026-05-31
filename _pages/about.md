@@ -9,22 +9,22 @@ subtitle: Active Matter | Fluid Mechanics | Statistical Mechanics
 #   image: prof_pic.jpg
 #   image_circular: false # crops the image to make it circular
 #   more_info: >
-#     <p>12-360 DICE</p>
-#     <p>9211 116 Street NW</p>
-#     <p>Edmonton, AB, T6G 1H9</p>
-#     <p><a href = "mailto: zhiwei.peng@ualberta.ca">zhiwei.peng@ualberta.ca</a> </p>
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
-
-
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: 3 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am an Assistant Professor in the [Department of Chemical and Materials Engineering](https://www.ualberta.ca/engineering/chemical-materials-engineering/index.html) at the [University of Alberta](https://www.ualberta.ca/index.html). Our group develops theoretical machinery and high-performance (e.g., CUDA-enabled) computational libraries to study the mechanics of soft and [active matter](https://en.wikipedia.org/wiki/Active_matter). The key aim is to bridge the gap between micromechanics of constitutive particles and macroscopic phenomena. 
@@ -34,17 +34,8 @@ I earned my Ph.D. degree in Chemical Engineering from [Caltech](https://www.calt
 Current research topics include transport, microrheology, statistical mechanics, fluctuations, and collective motion of colloidal (active) matter. 
 
 If you are interested in joining our group, please read [this page]({% link _news/join.md %}). For any other inquires, please contact Dr. Peng.
-
 <div class="row mt-4 mb-4">
     <div class="col-sm-12 mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/research_banner.jpg' | relative_url }}" alt="Active Matter Research Visual">
     </div>
 </div>
-
-
-
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

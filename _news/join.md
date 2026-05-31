@@ -4,7 +4,7 @@ title: Join us
 date: 2024-01-09 
 inline: false
 related_posts: false
-related_publications: Zhou2024,peng_zhou_brady_2022,PB2022_jor,PB2022_JCP, PRF2020
+related_publications: true
 ---
 
 ## Mechanics of active matter
@@ -25,6 +25,16 @@ Active matter is a novel and exciting class of materials that include suspension
 If you would like to join as a graduate student or undergraduate intern, please fill out this [inquiry form](https://forms.gle/wfAvGcViQLaTwurJ6). **Direct email messages to Dr. Peng will not be considered.**
 
 For inquiries regarding **postdoctoral** positions, please email Dr. Peng and include your CV. 
+
+<div class="d-none">
+  {% cite CMQP2026 %}
+  {% cite P2024b %}
+  {% cite P2024a %}
+  {% cite PB2022_JCP %}
+  {% cite PRF2020 %}
+</div>
+
+
 
 
 <!-- Applications for the M.S. and Ph.D. programs must be made through the [Faculty of Graduate Studies and Research](https://www.ualberta.ca/graduate-studies/prospective-students/apply-for-admission/index.html) at UAlberta. -->
