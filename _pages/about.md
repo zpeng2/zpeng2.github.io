@@ -50,7 +50,7 @@ We are actively recruiting passionate graduate students and postdocs! If you are
 
 <a href="{% link _news/join.md %}" class="btn btn-primary z-depth-1 mt-2 mb-3">Prospective Students: Learn How to Apply</a>
 
-For all other academic or collaboration inquiries, please feel free to reach out to me directly.
+For all other academic or collaboration inquiries, please feel free to reach out to me directly. <a href="mailto:zhiwei.peng@ualberta.ca" title="Email Dr. Peng"><i class="fas fa-envelope"></i></a>
 
 
 <!-- 
