@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Active Matter | Fluid Mechanics | Statistical Mechanics 
+subtitle: Fluid Mechanics | Active Matter | Statistical Mechanics 
 
 # profile:
 #   align: right
