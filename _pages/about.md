@@ -29,7 +29,7 @@ latest_posts:
 
 I am an Assistant Professor in the Department of [Chemical and Materials Engineering](https://www.ualberta.ca/engineering/chemical-materials-engineering/index.html) at the University of Alberta. Prior to joining U of A, I earned my Ph.D. in Chemical Engineering from Caltech under the supervision of John Brady.
 
-**The Peng Lab**
+**The Peng Group**
 
 Our research group investigates the fundamental physics and fluid mechanics of [soft](https://en.wikipedia.org/wiki/Soft_matter) and [active](https://en.wikipedia.org/wiki/Active_matter) matter. Our ultimate goal is to bridge the gap between the micromechanics of constitutive particles and macroscopic phenomena. In other words, we want to understand how the interactions of individual, micro-scale particles dictate the large-scale properties of complex fluids and soft materials. 
 
