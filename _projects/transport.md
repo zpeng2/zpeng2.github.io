@@ -10,7 +10,7 @@ related_publications: true
 
 Locomotion of self-propelled particles such as motile bacteria or phoretic swimmers often takes place in the presence of applied flows and confining boundaries. Interactions of these active swimmers with the flow environment and the boundaries are important for the understanding of many biological processes, including infection by motile bacteria, the formation of biofilms, and the design of micro and nanomotors for biomedical applications. 
 
-The transport behavior of active matter results from the interplay of a multitude of factors including swimming, confinement, and hydrodynamics.  Because the transport of biological active matter often occurs in complex domains, our current work focuses on geometries including turtuous domains, fluctuating channels, and random porous media {% cite PRF2020 peng_zhou_brady_2022 Zhou2024 %}. 
+The transport behavior of active matter results from the interplay of a multitude of factors including swimming, confinement, and hydrodynamics.  Because the transport of biological active matter often occurs in complex domains, our current work focuses on geometries including tortuous domains, fluctuating channels, and random porous media {% cite PRF2020 peng_zhou_brady_2022 Zhou2024 %}. 
 
 
 <div class="row">
