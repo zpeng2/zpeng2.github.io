@@ -18,6 +18,11 @@ profiles:
     #   <p>9211-116 St,</p>
     #   <p>Edmonton, AB, T6G 2H5</p>
   - align: left
+    image: Amr_Elfayoumy.jpeg
+    content: amr.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
     image: Samadian.jpg
     content: samadian.md
     image_circular: false # crops the image to make it circular
