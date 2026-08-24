@@ -26,6 +26,11 @@ profiles:
     image: Amr_Elfayoumy.jpeg
     content: amr.md
     image_circular: false # crops the image to make it circular
+    
+  - align: left
+    image: vhaskar.jpeg
+    content: vhaskar.md
+    image_circular: false # crops the image to make it circular
 
   - align: left
     image: Samadian.jpg
@@ -38,10 +43,6 @@ profiles:
     content: khademiyan.md
     image_circular: false # crops the image to make it circular
 
-  - align: left
-    image: vhaskar.jpeg
-    content: vhaskar.md
-    image_circular: false # crops the image to make it circular
     # more_info: >
     #   <p>555 your office number</p>
     #   <p>123 your address street</p>
