@@ -18,7 +18,7 @@ profiles:
     #   <p>9211-116 St,</p>
     #   <p>Edmonton, AB, T6G 2H5</p>
   - align: left
-    image: zamzam.jpeg
+    image: zamzam.jpg
     content: zamzam.md
     image_circular: false # crops the image to make it circular
 
