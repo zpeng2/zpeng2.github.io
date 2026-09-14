@@ -43,8 +43,15 @@ profiles:
     content: khademiyan.md
     image_circular: false # crops the image to make it circular
 
-    # more_info: >
-    #   <p>555 your office number</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
+alumni:
+  - name: Jenna Ngan
+    role: NSERC Undergraduate Student Research Award
+    years: 2024&ndash;2025
+    topic: Dynamics of magnetotactic active particles in flow
+    # next: Undergraduate
+  # - name: John Smith
+  #   role: M.Sc. in Materials Engineering
+  #   years: 2022&ndash;2024
+  #   topic: Phase-field modeling of active droplets
+  #   now: Process Engineer, Suncor
 ---

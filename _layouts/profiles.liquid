@@ -32,5 +32,20 @@ layout: page
         </div>
       {% endfor %}
     {% endif %}
+    {% if page.alumni and page.alumni.size > 0 %}
+      <hr>
+      <h3>{{ page.alumni_title | default: 'Alumni' }}</h3>
+      <div class="alumni">
+        {% for person in page.alumni %}
+          <p>
+            <strong>{{ person.name }}</strong>
+            {% if person.role %}&mdash; {{ person.role }}{% endif %}
+            {% if person.years %}({{ person.years }}){% endif %}.
+            {% if person.topic %}{{ person.topic }}.{% endif %}
+            {% if person.next %}<span class="text-muted">Next {{ person.next }}.</span>{% endif %}
+          </p>
+        {% endfor %}
+      </div>
+    {% endif %}
   </article>
 </div>
