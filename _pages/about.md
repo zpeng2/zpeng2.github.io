@@ -33,10 +33,7 @@ I am an Assistant Professor in the Department of [Chemical and Materials Enginee
 
 Our research group investigates the fundamental physics and fluid mechanics of [soft](https://en.wikipedia.org/wiki/Soft_matter) and [active](https://en.wikipedia.org/wiki/Active_matter) matter. Our ultimate goal is to bridge the gap between the micromechanics of constitutive particles and macroscopic phenomena. In other words, we want to understand how the interactions of individual, micro-scale particles dictate the large-scale properties of complex fluids and soft materials. 
 
-To solve these problems, our group develops theoretical machinery and high-performance (e.g., CUDA-enabled) computational libraries. Our current research areas include:
-* Transport and Microrheology
-* Statistical Mechanics and Fluctuations
-* Collective Motion of Colloidal (Active) Matter
+To solve these problems, our group develops theoretical machinery and high-performance (e.g., CUDA-enabled) computational libraries. 
 
 <div class="row mt-4 mb-4">
     <div class="col-sm-12 mt-3 mt-md-0">
